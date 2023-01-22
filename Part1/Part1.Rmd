@@ -1,0 +1,19 @@
+---
+title: "Bayesian Statistics with R-INLA"
+author: "Sara Martino"
+subtitle: 'Geilo, January, 2023'
+output:
+  beamer_presentation:
+    slide_level: 2
+    toc: true  
+    keep_tex: yes  
+    theme: "Singapore"
+    colortheme: "default"
+    font: "serif"
+    includes:
+      in_header: header.tex
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
